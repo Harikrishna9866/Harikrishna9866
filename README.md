@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunarapu Harikrishna</h1>
 <p align="left">👋 Welcome to my GitHub!
 
-I'm an aspiring Data Analyst, Business Analyst, Data Scintist and AI/ML enthusiast passionate about turning data into meaningful insights. I enjoy building practical projects using Python, SQL, and Machine Learning and building dashboard using Power-BI and Tableau. Always learning, experimenting, and working towards creating impactful AI-driven solutions.</p>
+I'm an aspiring Data Analyst, Business Analyst, data scientist and AI/ML enthusiast passionate about turning data into meaningful insights. I enjoy building practical projects using Python, SQL, and Machine Learning and building dashboard using Power-BI and Tableau. Always learning, experimenting, and working towards creating impactful AI-driven solutions.</p>
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kunarapu-harikrishna-418205317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunarapu-harikrishna-418205317/" height="30" width="40" /></a>
